@@ -1,0 +1,25 @@
+{
+  "name": "sprockets-sdk",
+  "version": "1.0.0",
+  "description": "SDK for developing Sprockets Drive plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprocketstech/sprockets_sdk.git"
+  },
+  "keywords": [
+    "IoT",
+    "Sprockets",
+    "Sprockets",
+    "Drive"
+  ],
+  "author": "Sprockets Technology <info@sprockets.tech> (http://www.sprockets.tech)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprocketstech/sprockets_sdk/issues"
+  },
+  "homepage": "https://github.com/sprocketstech/sprockets_sdk#readme"
+}
