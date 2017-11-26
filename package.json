@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/sprocketstech/sprockets_sdk/issues"
   },
-  "homepage": "https://github.com/sprocketstech/sprockets_sdk#readme"
+  "homepage": "https://github.com/sprocketstech/sprockets_sdk#readme",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-grunt": "*",
+    "grunt-jasmine-nodejs": "*",
+    "load-grunt-tasks": "*"
+  }
 }
